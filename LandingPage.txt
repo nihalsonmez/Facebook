@@ -1,3 +1,2 @@
 Some code for landing page.
-Some more codes
 different codes are here
